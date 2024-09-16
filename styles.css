@@ -40,6 +40,13 @@ img {
     height: auto;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 footer {
     background-color: maroon;
     color: #fff;
